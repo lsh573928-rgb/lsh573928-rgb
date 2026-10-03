@@ -25,3 +25,7 @@
 
 ### 💬 연락
 의견·제보는 저장소 Issues로 남겨 주세요.
+
+- 🧵 Threads: [@civil__ax](https://www.threads.com/@civil__ax) — 개발 과정과 현장 이야기
+- 💬 카카오 오픈프로필: [토목AX](https://open.kakao.com/me/tomokax)
+
